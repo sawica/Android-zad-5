@@ -1,0 +1,35 @@
+Po pierwszym uruchomieniu aplikacji:
+2021-11-15 22:19:10.974 1654-1654/pl.edu.pb.wi D/MainActivity: Wywołana została metoda cyklu życia: onCreate
+2021-11-15 22:19:11.436 1654-1654/pl.edu.pb.wi D/MainActivity: Wywołana została metoda cyklu życia: onResume
+
+Po wciśnięciu przycisku Cofnij:
+2021-11-15 22:24:20.188 1654-1654/pl.edu.pb.wi D/MainActivity: Wywołana została metoda cyklu życia: onPause
+2021-11-15 22:24:21.628 1654-1654/pl.edu.pb.wi D/MainActivity: Wywołana została metoda cyklu życia: onStop
+2021-11-15 22:24:21.647 1654-1654/pl.edu.pb.wi D/MainActivity: Wywołana została metoda cyklu życia: onDestroy
+
+Po ponownym uruchomieniu aplikacji:
+2021-11-15 22:24:40.660 1654-1654/pl.edu.pb.wi D/MainActivity: Wywołana została metoda cyklu życia: onCreate
+2021-11-15 22:24:40.740 1654-1654/pl.edu.pb.wi D/MainActivity: Wywołana została metoda cyklu życia: onResume
+
+Po wciśnięciu przycisku ekranu głównego Home:
+2021-11-15 22:24:55.672 1654-1654/pl.edu.pb.wi D/MainActivity: Wywołana została metoda cyklu życia: onPause
+2021-11-15 22:24:56.711 1654-1654/pl.edu.pb.wi D/MainActivity: Wywołana została metoda cyklu życia: onStop
+
+Po powrocie do aplikacji z listy ostatnio używanych aplikacji:
+2021-11-15 22:25:12.706 1654-1654/pl.edu.pb.wi D/MainActivity: Wywołana została metoda cyklu życia: onResume
+
+Po obroceniu ekranu:
+2021-11-15 22:25:12.706 1654-1654/pl.edu.pb.wi D/MainActivity: Wywołana została metoda cyklu życia: onResume
+2021-11-15 22:26:30.202 1654-1654/pl.edu.pb.wi D/MainActivity: Wywołana została metoda cyklu życia: onPause
+2021-11-15 22:26:30.209 1654-1654/pl.edu.pb.wi D/MainActivity: Wywołana została metoda cyklu życia: onStop
+2021-11-15 22:26:30.212 1654-1654/pl.edu.pb.wi D/MainActivity: Wywołana została metoda cyklu życia: onDestroy
+2021-11-15 22:26:30.304 1654-1654/pl.edu.pb.wi D/MainActivity: Wywołana została metoda cyklu życia: onCreate
+2021-11-15 22:26:30.371 1654-1654/pl.edu.pb.wi D/MainActivity: Wywołana została metoda cyklu życia: onResume
+
+Po obroceniu ekranu po dodaniu metody onSaveInstanceState:
+2021-11-15 23:47:03.226 1987-1987/pl.edu.pb.wi D/MainActivity: Wywołana została metoda cyklu życia: onPause
+2021-11-15 23:47:03.242 1987-1987/pl.edu.pb.wi D/MainActivity: Wywołana została metoda cyklu życia: onStop
+2021-11-15 23:47:03.244 1987-1987/pl.edu.pb.wi D/MainActivity: Wywołana została metoda: onSaveInstanceState
+2021-11-15 23:47:03.245 1987-1987/pl.edu.pb.wi D/MainActivity: Wywołana została metoda cyklu życia: onDestroy
+2021-11-15 23:47:03.365 1987-1987/pl.edu.pb.wi D/MainActivity: Wywołana została metoda cyklu życia: onCreate
+2021-11-15 23:47:03.488 1987-1987/pl.edu.pb.wi D/MainActivity: Wywołana została metoda cyklu życia: onResume
